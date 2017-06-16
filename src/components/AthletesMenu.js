@@ -14,5 +14,3 @@ export default class AthletesMenu extends React.Component {
 		);
 	}
 }
-
-<!-- Jeg er nået til Athlete Preview Component -->

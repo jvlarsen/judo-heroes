@@ -1,9 +1,9 @@
 import React from 'react';
 
 const typeMap = {
-	'G' = "Gold",
-	'S' = "Silver",
-	'B' = "Bronze",
+	'G': "Gold",
+	'S': "Silver",
+	'B': "Bronze",
 };
 
 export default class Medal extends React.Component
